@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛の不可思議",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T20:00:16.623539Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の不可思議",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_愛の不可思議_三月のパンタシア.txt"
+    }
+  ]
+}
